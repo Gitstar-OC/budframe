@@ -4,9 +4,11 @@ THis is an in progress project (sorry if you are the reviewer of this I am worki
 
 If you find this idea to be time wasting you might just reject this whole idea : ( but I would love for you to hear about it a bit first then read if it's sounds exciting and you have spare time. Some part of this project is inspired by 2 of my other projects which I have made one is https://discover.iamoc.me and other one is for a non profit - ETR (Currently in NDA but simply put it's using lot of mdx files for different articles)    
 
---- 
 Fixes are underway while you are seeing this, and I might not be able to complete this today so sorry for it :( I might just upload a simple version in couple hours. 
 
+P.S. - You might think that oh I can take help to write it from a lot of rosources from the internet including llm's but the thing is they are not good at creating something like this which is also why I plan to release llms.txt files along with this so we can train and make our llm's better so next time you will not need to read any of this and your ai bot will be able to help you out with this stuff. Also the reason why they are not good at it is that there's not a lot of code which can teach or shows how [slugs] in nextjs is being used in repos, mostly mintlify / fumadocs / nextra serve as a provider for all the current documentation while modifying or creating custom version of documentation is super hard you will get to know why it is after you see this. (There are some ways it's not that though as there are multiple ways to achieve the same results with different methods) 
+
+--- 
 
 Oh, actually I was thinking of naming this something more like learn to create your own docs! but it’s acronym didn’t work out very well so I thought of other names. I knew that build-your-own-x exists on Github and is one of the most popular repo so build your own docs was the first choice. Iterating over it I finally decided to keep the name as Budframe.  (Initially I was thinking of some Japanese names for it like Shiki and cam up with nyx)
 
