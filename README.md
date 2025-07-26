@@ -1,5 +1,7 @@
 # Budframe - Build your own docs framework
 
+Unble to post screenshot link bc cdn is down. 
+
 THis is an in progress project (sorry if you are the reviewer of this I am working on fixing those issues right now). The main thing about creating this project is itself solving the problem I am facing to create this. Here's a [link to the figma files of this project](https://www.figma.com/design/1NNuKxR20hdiExSMsuK5Da/Budframe?node-id=0-1&t=7AXg6oZZjKTsi3jy-1) which has the complete story of budframee in it and also pasted below for your convenience
 
 If you find this idea to be time wasting you might just reject this whole idea : ( but I would love for you to hear about it a bit first then read if it's sounds exciting and you have spare time. Some part of this project is inspired by 2 of my other projects which I have made one is https://discover.iamoc.me and other one is for a non profit - ETR (Currently in NDA but simply put it's using lot of mdx files for different articles)    
